@@ -36,7 +36,7 @@ Follow these steps to set up and run this project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/xrp-backend.git
+   git clone https://github.com/smartdev914/xrp-backend.git
    ```
 
 2. **Navigate to the project directory:**
