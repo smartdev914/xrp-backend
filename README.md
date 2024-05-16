@@ -1,24 +1,18 @@
-# XRP-Backend
+# XRPL-Backend
 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Architecture](#architecture)
 - [Technology Stack](#technology-stack)
 - [Setup and Installation](#setup-and-installation)
 - [Environment Variables](#environment-variables)
-- [Usage](#usage)
 - [License](#license)
 
 ## Introduction
 
-XRP-Backend is a server-side application that [describe what your application does and who it's for].
+XRPL-Backend is a server-side application that leverages XRPL's NFTs to provide a secure, decentralized, blockchain-based contract service.
 
-The frontend for this application can be found at [Frontend Repository](https://github.com/bsquarelab-ltd/xrp-frontend).
-
-## Architecture
-
-[Provide a brief overview of the application's architecture. If possible, include a diagram.]
+The frontend for this application can be found at [Frontend Repository](https://github.com/bsquarelab-ltd/xrpl-frontend).
 
 ## Technology Stack
 
@@ -80,10 +74,6 @@ PORT=''
 XRPL_PROVIDER = ''
 CORS_ORIGIN = ('', '')
 ```
-
-## Usage
-
-[Provide instructions for using your application.]
 
 ## License
 
