@@ -12,8 +12,6 @@
 
 XRPL-Backend is a server-side application that leverages XRPL's NFTs to provide a secure, decentralized, blockchain-based contract service.
 
-The frontend for this application can be found at [Frontend Repository](https://github.com/bsquarelab-ltd/xrpl-frontend).
-
 ## Technology Stack
 
 - **Backend:**
